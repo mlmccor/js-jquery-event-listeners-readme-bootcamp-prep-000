@@ -5,7 +5,7 @@ function getIt() {
 )}
 
 function frameIt() {
-  $(`.).on(load, function() {
+  $(`).on(load, function() {
     
   }
   )
