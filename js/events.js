@@ -5,7 +5,7 @@ function getIt() {
 )}
 
 function frameIt() {
-  $(`.tasty`).on(load, function() {
+  $(`.).on(load, function() {
     
   }
   )
